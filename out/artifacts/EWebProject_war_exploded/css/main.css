@@ -1,0 +1,40 @@
+.lblDesign {
+    width: 150px;
+    display: inline-block;
+    margin-bottom: 5px;
+}
+
+.btnDesign {
+    width: 100%;
+    height: 50px;
+    border: 1px solid;
+    margin-bottom: 5px;
+    cursor: pointer;
+}
+
+.btnDesign1 {
+    width: 100%;
+    height: 50px;
+    border: 1px solid;
+    margin-bottom: 5px;
+    cursor: pointer;
+}
+
+table {
+    width: 100%;
+}
+
+.searchDesign {
+    width: 61%;
+}
+
+.cmbDesign {
+    width: 174px;
+    height: 27px;
+}
+
+.dateDesign {
+    position: relative;
+    left: -4px;
+    width: 169px;
+}
